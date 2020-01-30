@@ -1,29 +1,14 @@
 # follower_analyse
+该项目是狗哥（成果）的微博粉丝分析项目，以娱乐为初衷～
 
-## Project setup
-```
-npm install
-```
+所有看到该项目的人，请举起右手，庄严宣誓：不盲目追星！
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+好，狗哥是我的了～
 
-### Compiles and minifies for production
-```
-npm run build
-```
+项目记录了从`2020年1月13日8:15到2020年1月27日6:55`时间段内狗哥的微博粉丝每十分钟变化趋势。目前已经停止更新。
 
-### Run your tests
-```
-npm run test
-```
+[目前提供预览的网页](http://106.54.85.24:3000/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+[最近24小时的表格](./date_24hours.csv)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[全部数据的表格](./date_all.csv)
